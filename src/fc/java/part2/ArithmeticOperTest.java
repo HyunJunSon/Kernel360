@@ -1,3 +1,5 @@
+package fc.java.part2;
+
 public class ArithmeticOperTest {
     public static void main(String[] args) {
         int digit = 3625;

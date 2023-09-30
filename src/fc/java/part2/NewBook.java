@@ -1,3 +1,5 @@
+package fc.java.part2;
+
 // 책(Object)
 public class NewBook {
     public String title;

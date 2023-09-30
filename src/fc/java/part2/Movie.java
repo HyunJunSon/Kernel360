@@ -1,3 +1,5 @@
+package fc.java.part2;
+
 public class Movie {
     String title;
     String genre ="love";
@@ -8,7 +10,7 @@ public class Movie {
 
     @Override
     public String toString() {
-        return "Movie{" +
+        return "Part2.Movie{" +
                 "title='" + title + '\'' +
                 ", genre='" + genre + '\'' +
                 '}';

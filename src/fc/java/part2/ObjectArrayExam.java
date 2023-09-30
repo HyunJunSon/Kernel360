@@ -1,3 +1,5 @@
+package fc.java.part2;
+
 public class ObjectArrayExam {
     public static void main(String[] args) {
         Movie[] arr = new Movie[]{

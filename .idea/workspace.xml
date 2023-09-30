@@ -5,24 +5,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5be1ee3-d4c7-4d7e-ab7a-3063fea34ced" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ArithmeticOperTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinaryExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BookExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BookTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CastingTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CharExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CharTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MaxMinValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectArrayExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ScannerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TwoDimArrayInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part2/SubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part2/SuperClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/BookDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/CarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/MemberDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/MovieDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/PersonDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/PersonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BinaryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinaryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArithmeticOperTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/part2/ArithmeticOperTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/part2/ArrayExam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/part2/ArrayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinaryExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/part2/BinaryExam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinaryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/part2/BinaryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/part2/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BookExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/part2/BookExam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BookTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/part2/BookTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/part2/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/part2/CarTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CastingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/part2/CastingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CharExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/part2/CharExam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CharTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/part2/CharTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FindAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/part2/FindAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MaxMinValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/part2/MaxMinValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/part2/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NewBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/part2/NewBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ObjectArrayExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/part2/ObjectArrayExam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/part2/Operator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ScannerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/part2/ScannerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TwoDimArrayInit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/part2/TwoDimArrayInit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VDATest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/part2/VDATest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,37 +80,43 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArithmeticOperTest">
+  <component name="RunManager" selected="Application.PersonTest">
     <configuration name="ArithmeticOperTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArithmeticOperTest" />
+      <option name="MAIN_CLASS_NAME" value="Part2.ArithmeticOperTest" />
       <module name="FastCampus" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayExam" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part2.Main" />
       <module name="FastCampus" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="MaxMinValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MaxMinValue" />
+      <option name="MAIN_CLASS_NAME" value="Part2.MaxMinValue" />
       <module name="FastCampus" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectArrayExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectArrayExam" />
+    <configuration name="PersonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fc.java.part3.PersonTest" />
       <module name="FastCampus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fc.java.part3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="ScannerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ScannerTest" />
+      <option name="MAIN_CLASS_NAME" value="Part2.ScannerTest" />
       <module name="FastCampus" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -102,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PersonTest" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.ArithmeticOperTest" />
         <item itemvalue="Application.MaxMinValue" />
         <item itemvalue="Application.ScannerTest" />
-        <item itemvalue="Application.ObjectArrayExam" />
-        <item itemvalue="Application.ArrayExam" />
       </list>
     </recent_temporary>
   </component>
