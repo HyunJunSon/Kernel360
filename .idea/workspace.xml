@@ -5,10 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5be1ee3-d4c7-4d7e-ab7a-3063fea34ced" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BinaryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FindAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VDATest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArithmeticOperTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BookExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BookTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CastingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CharExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CharTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MaxMinValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectArrayExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ScannerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwoDimArrayInit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinaryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinaryTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +43,9 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2Vv56Sg90xdOHJsDnIV2F0WOmU3" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -39,13 +55,60 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "inlay.hints"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
     </key>
+  </component>
+  <component name="RunManager" selected="Application.ArithmeticOperTest">
+    <configuration name="ArithmeticOperTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArithmeticOperTest" />
+      <module name="FastCampus" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayExam" />
+      <module name="FastCampus" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxMinValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaxMinValue" />
+      <module name="FastCampus" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObjectArrayExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectArrayExam" />
+      <module name="FastCampus" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScannerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ScannerTest" />
+      <module name="FastCampus" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ArithmeticOperTest" />
+        <item itemvalue="Application.MaxMinValue" />
+        <item itemvalue="Application.ScannerTest" />
+        <item itemvalue="Application.ObjectArrayExam" />
+        <item itemvalue="Application.ArrayExam" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -57,5 +120,9 @@
       <updated>1695703537756</updated>
     </task>
     <servers />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
