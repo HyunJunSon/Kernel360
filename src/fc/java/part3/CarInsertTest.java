@@ -1,12 +1,13 @@
 package fc.java.part3;
 
+import fc.java.model.CarDAO;
 import fc.java.model.CarDTO;
 
 import java.util.Scanner;
 
-public class CarTest {
-
+public class CarInsertTest {
     public static void main(String[] args) {
+        // 자동차정보를 키보드로 부터 입력을 받아서 DB에 저장하세요.(JDBC)
         //Q. 자동차 정보를 키보드로 입력 받아서 다른 메서드로 이동해야 하는 경우를 생각해보자.
         Scanner sc = new Scanner(System.in);
         System.out.print("자동차일련번호:");
@@ -43,11 +44,8 @@ public class CarTest {
         car.carType = carType;
         car.carYear = carYear;
 
-        carPrintData(car);
-    }
-
-    private static void carPrintData(CarDTO car) {
-        System.out.println(car);
+        CarDAO dao = new CarDAO();
+        dao.carInsert(car);
+        dao.carSelect();
     }
 }
-
