@@ -5,13 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5be1ee3-d4c7-4d7e-ab7a-3063fea34ced" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/fc/java/model/CarDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/model/CarDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/model/CarUtility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/CarInsertTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/CarUtilityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model/MemberDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model/MovieVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model/PersonVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/AccessModifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/BestVoModeling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/ConstructorInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/ConstructorOverloadingJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/PackageNameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/PersonAccessTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/PersonInfoHide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/SetterGetterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/StudentTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fc/java/part3/CarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/part3/CarTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part3/PersonDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/part3/PersonDTO.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,16 +61,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CarUtilityTest">
-    <configuration name="ArithmeticOperTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Part2.ArithmeticOperTest" />
-      <module name="FastCampus" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fc.java.part3.CarTest" />
+  <component name="RunManager" selected="Application.StudentTest">
+    <configuration name="BestVoModeling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fc.java.part3.BestVoModeling" />
       <module name="FastCampus" />
       <extension name="coverage">
         <pattern>
@@ -74,8 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CarUtilityTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fc.java.part3.CarUtilityTest" />
+    <configuration name="ConstructorOverloadingJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fc.java.part3.ConstructorOverloadingJava" />
       <module name="FastCampus" />
       <extension name="coverage">
         <pattern>
@@ -87,15 +88,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Part2.Main" />
+    <configuration name="PersonAccessTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fc.java.part3.PersonAccessTest" />
       <module name="FastCampus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fc.java.part3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fc.java.part3.PersonTest" />
+    <configuration name="SetterGetterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fc.java.part3.SetterGetterTest" />
+      <module name="FastCampus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fc.java.part3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fc.java.part3.StudentTest" />
       <module name="FastCampus" />
       <extension name="coverage">
         <pattern>
@@ -109,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CarUtilityTest" />
-        <item itemvalue="Application.CarTest" />
-        <item itemvalue="Application.PersonTest" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ArithmeticOperTest" />
+        <item itemvalue="Application.StudentTest" />
+        <item itemvalue="Application.BestVoModeling" />
+        <item itemvalue="Application.ConstructorOverloadingJava" />
+        <item itemvalue="Application.SetterGetterTest" />
+        <item itemvalue="Application.PersonAccessTest" />
       </list>
     </recent_temporary>
   </component>

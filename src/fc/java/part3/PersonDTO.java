@@ -15,4 +15,12 @@ public class PersonDTO {
         System.out.println("걷다.");
     }
 
+    @Override
+    public String toString() {
+        return "PersonDTO{" +
+                "name='" + name + '\'' +
+                ", age=" + age +
+                ", phone='" + phone + '\'' +
+                '}';
+    }
 }
