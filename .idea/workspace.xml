@@ -5,21 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5be1ee3-d4c7-4d7e-ab7a-3063fea34ced" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/fc/java/model/MemberDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/model/MovieVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/model/PersonVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/model/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/AccessModifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/BestVoModeling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/ConstructorInit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/ConstructorOverloadingJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/PackageNameTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/PersonAccessTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/PersonInfoHide.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/SetterGetterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model/MyUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model/MyUtil2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/NoneStaticAccess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/NoneStaticTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/StaticAccess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/StaticTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fc/java/part3/PersonDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/part3/PersonDTO.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +53,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StudentTest">
+  <component name="RunManager" selected="Application.NoneStaticTest">
     <configuration name="BestVoModeling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fc.java.part3.BestVoModeling" />
       <module name="FastCampus" />
@@ -88,8 +80,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonAccessTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fc.java.part3.PersonAccessTest" />
+    <configuration name="NoneStaticTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fc.java.part3.NoneStaticTest" />
       <module name="FastCampus" />
       <extension name="coverage">
         <pattern>
@@ -101,8 +93,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetterGetterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fc.java.part3.SetterGetterTest" />
+    <configuration name="StaticTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fc.java.part3.StaticTest" />
       <module name="FastCampus" />
       <extension name="coverage">
         <pattern>
@@ -129,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NoneStaticTest" />
+        <item itemvalue="Application.StaticTest" />
         <item itemvalue="Application.StudentTest" />
         <item itemvalue="Application.BestVoModeling" />
         <item itemvalue="Application.ConstructorOverloadingJava" />
-        <item itemvalue="Application.SetterGetterTest" />
-        <item itemvalue="Application.PersonAccessTest" />
       </list>
     </recent_temporary>
   </component>
