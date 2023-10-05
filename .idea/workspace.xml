@@ -5,36 +5,118 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5be1ee3-d4c7-4d7e-ab7a-3063fea34ced" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/fc/java/model/AllStatic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/model/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/model/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/model/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/AllStaticTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/ClassObjectInstance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/EmployeeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/AbstractClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/DogCatTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/DogCatUpcastingTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/EmployeeInitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/EmployeeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/InNotOverride.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/InterfaceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/ObjectCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/ObjectTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/OverrideTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/PolyArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/PolyMethodTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/PolyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/RempVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/poly/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/poly/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/poly/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/poly/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/poly/Radio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/poly/RemoCon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/poly/TV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/gson_2_8_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course1/part4/ObjectPolyArg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course1/part4/ObjectToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course1/poly/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course1/poly/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/model2/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/model2/BookArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/model2/CC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/model2/IntArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/model2/MinMaxFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/model2/ObjectArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/model2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/ArrayListBest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/ArrayListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/GsonToAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/HelloWorldString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/IntArrayBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/MinMaxFinderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/MyBookArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/MyIntArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/MyObjectArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/RandomAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/StringCompare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/StringSplit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastCampus.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FastCampus.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/model/AllStatic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/model/AllStatic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/model/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/model/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/model/CarDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/model/CarDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/model/CarDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/model/CarDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/model/CarUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/model/CarUtility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/model/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/model/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/model/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/model/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/model/MemberDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/model/MemberDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/model/MovieVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/model/MovieVO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/model/MyUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/model/MyUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/model/MyUtil2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/model/MyUtil2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/model/PersonVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/model/PersonVO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/model/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part2/ArithmeticOperTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part2/ArithmeticOperTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part2/ArrayExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part2/ArrayExam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part2/ArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part2/ArrayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part2/BinaryExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part2/BinaryExam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part2/BinaryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part2/BinaryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part2/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part2/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part2/BookExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part2/BookExam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part2/BookTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part2/BookTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part2/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part2/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part2/CarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part2/CarTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part2/CastingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part2/CastingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part2/CharExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part2/CharExam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part2/CharTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part2/CharTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part2/FindAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part2/FindAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part2/MaxMinValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part2/MaxMinValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part2/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part2/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part2/NewBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part2/NewBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part2/ObjectArrayExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part2/ObjectArrayExam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part2/Operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part2/Operator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part2/ScannerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part2/ScannerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part2/SubClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part2/SubClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part2/SuperClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part2/SuperClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part2/TwoDimArrayInit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part2/TwoDimArrayInit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part2/VDATest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part2/VDATest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part3/AccessModifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part3/AccessModifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part3/AllStaticTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part3/AllStaticTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part3/BestVoModeling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part3/BestVoModeling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part3/BookDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part3/BookDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part3/CarInsertTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part3/CarInsertTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part3/CarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part3/CarTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part3/CarUtilityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part3/CarUtilityTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part3/ClassObjectInstance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part3/ClassObjectInstance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part3/ConstructorInit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part3/ConstructorInit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part3/ConstructorOverloadingJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part3/ConstructorOverloadingJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part3/EmployeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part3/EmployeeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part3/MemberDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part3/MemberDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part3/MovieDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part3/MovieDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part3/NoneStaticAccess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part3/NoneStaticAccess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part3/NoneStaticTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part3/NoneStaticTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part3/PackageNameTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part3/PackageNameTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part3/PersonAccessTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part3/PersonAccessTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part3/PersonDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part3/PersonDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part3/PersonInfoHide.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part3/PersonInfoHide.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part3/PersonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part3/PersonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part3/SetterGetterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part3/SetterGetterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part3/StaticAccess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part3/StaticAccess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part3/StaticTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part3/StaticTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part3/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part3/StudentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part4/AbstractClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part4/AbstractClassTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part4/DogCatTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part4/DogCatTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part4/DogCatUpcastingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part4/DogCatUpcastingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part4/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part4/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part4/EmployeeInitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part4/EmployeeInitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part4/EmployeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part4/EmployeeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part4/InNotOverride.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part4/InNotOverride.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part4/InterfaceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part4/InterfaceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part4/ObjectCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part4/ObjectCasting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part4/ObjectTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part4/ObjectTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part4/OverrideTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part4/OverrideTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part4/PolyArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part4/PolyArrayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part4/PolyMethodTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part4/PolyMethodTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part4/PolyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part4/PolyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part4/RempVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/part4/RempVO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/poly/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/poly/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/poly/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/poly/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/poly/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/poly/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/poly/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/poly/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/poly/Radio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/poly/Radio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/poly/RemoCon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/poly/RemoCon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/poly/TV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course1/poly/TV.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +127,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -68,7 +151,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/work/fcJava/FastCampus/src/fc/java/poly",
+    "last_opened_file_path": "C:/work/fcJava/gson-2.8.9.jar",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "inlay.hints"
   }
 }]]></component>
@@ -80,13 +166,13 @@
       <recent name="C:\work\fcJava\FastCampus\src\fc\java\poly" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ObjectTest">
-    <configuration name="AbstractClassTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fc.java.part4.AbstractClassTest" />
+  <component name="RunManager" selected="Application.StringSplit">
+    <configuration name="ArrayListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part1.ArrayListTest" />
       <module name="FastCampus" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fc.java.part4.*" />
+          <option name="PATTERN" value="fc.java.course2.part1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +180,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InNotOverride" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fc.java.part4.InNotOverride" />
+    <configuration name="HelloWorldString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part1.HelloWorldString" />
       <module name="FastCampus" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fc.java.part4.*" />
+          <option name="PATTERN" value="fc.java.course2.part1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +193,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InterfaceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fc.java.part4.InterfaceTest" />
+    <configuration name="MyObjectArrayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part1.MyObjectArrayTest" />
       <module name="FastCampus" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fc.java.part4.*" />
+          <option name="PATTERN" value="fc.java.course2.part1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +206,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fc.java.part4.ObjectTest" />
+    <configuration name="StringCompare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part1.StringCompare" />
       <module name="FastCampus" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fc.java.part4.*" />
+          <option name="PATTERN" value="fc.java.course2.part1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +219,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PolyArrayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fc.java.part4.PolyArrayTest" />
+    <configuration name="StringSplit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part1.StringSplit" />
       <module name="FastCampus" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fc.java.part4.*" />
+          <option name="PATTERN" value="fc.java.course2.part1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,11 +234,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ObjectTest" />
-        <item itemvalue="Application.InterfaceTest" />
-        <item itemvalue="Application.AbstractClassTest" />
-        <item itemvalue="Application.InNotOverride" />
-        <item itemvalue="Application.PolyArrayTest" />
+        <item itemvalue="Application.StringSplit" />
+        <item itemvalue="Application.StringCompare" />
+        <item itemvalue="Application.HelloWorldString" />
+        <item itemvalue="Application.ArrayListTest" />
+        <item itemvalue="Application.MyObjectArrayTest" />
       </list>
     </recent_temporary>
   </component>
