@@ -5,13 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5be1ee3-d4c7-4d7e-ab7a-3063fea34ced" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/model2/Connection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/model2/MSSQLDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/model2/MySQLDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/model2/OracleDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/CollectionBasic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/DataBaseConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/WrapperTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/model2/AverageCalculaor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/model2/Converter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/model2/IntegerUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/model2/MathOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/model2/ObjectArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/model2/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/model2/PersonFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/model2/StringOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/model2/StringUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/model3/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/model3/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/model3/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/CharacterCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/FunctionalInterfaceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/GenericLimitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/GenericTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/HashSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/IntegerUtilsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/LambdaApply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/MapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/PairGenericTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/PersonFactoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/SortCompareTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/StreamAPITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/StringUtilsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/UniqueNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part3/GsonFromJson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part3/GsonMemAddtoJson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part3/GsonMemaddFromJson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part3/GsonToJson.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +80,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="fc.java.course2.model3" />
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -65,13 +90,13 @@
       <recent name="fc.java.course2.model2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CollectionBasic">
-    <configuration name="CollectionBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part1.CollectionBasic" />
+  <component name="RunManager" selected="Application.GsonMemaddFromJson">
+    <configuration name="GsonFromJson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part3.GsonFromJson" />
       <module name="FastCampus" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fc.java.course2.part1.*" />
+          <option name="PATTERN" value="fc.java.course2.part3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataBaseConnection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part1.DataBaseConnection" />
+    <configuration name="GsonMemAddtoJson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part3.GsonMemAddtoJson" />
       <module name="FastCampus" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fc.java.course2.part1.*" />
+          <option name="PATTERN" value="fc.java.course2.part3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorldString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part1.HelloWorldString" />
+    <configuration name="GsonMemaddFromJson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part3.GsonMemaddFromJson" />
       <module name="FastCampus" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fc.java.course2.part1.*" />
+          <option name="PATTERN" value="fc.java.course2.part3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringCompare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part1.StringCompare" />
+    <configuration name="GsonToJson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part3.GsonToJson" />
       <module name="FastCampus" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fc.java.course2.part1.*" />
+          <option name="PATTERN" value="fc.java.course2.part3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringSplit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part1.StringSplit" />
+    <configuration name="StreamAPITest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part2.StreamAPITest" />
       <module name="FastCampus" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fc.java.course2.part1.*" />
+          <option name="PATTERN" value="fc.java.course2.part2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CollectionBasic" />
-        <item itemvalue="Application.DataBaseConnection" />
-        <item itemvalue="Application.StringSplit" />
-        <item itemvalue="Application.StringCompare" />
-        <item itemvalue="Application.HelloWorldString" />
+        <item itemvalue="Application.GsonMemaddFromJson" />
+        <item itemvalue="Application.GsonMemAddtoJson" />
+        <item itemvalue="Application.GsonFromJson" />
+        <item itemvalue="Application.GsonToJson" />
+        <item itemvalue="Application.StreamAPITest" />
       </list>
     </recent_temporary>
   </component>
